@@ -15,41 +15,41 @@ const projects = [
         id: 2,
         name: 'Phantom Plates',
         description: 'Phantom Plates is a platform that connects home cooks with locals who are looking to discover and purchase home-cooked meals and baked goods.',
-        image: "https://source.unsplash.com/cc0Gg3BegjE",
-        repo: 'https://github.com/Steven-McCombe/Phantom-Plates',
-        live: 'https://peaceful-plains-78578.herokuapp.com/'
+        image: "https://unsplash.com/photos/VBsG1VOgLIU",
+        repo: 'https://github.com/Steven-McCombe/Phantom-Plates.git',
+        live: 'https://rocky-cliffs-36695.herokuapp.com/'
     },
     {
         id: 3,
         name: 'TechTalk',
         description: 'TechTalk Blog! This is a place where tech enthusiasts can come together to share their ideas and knowledge.',
-        image: "https://source.unsplash.com/mk7D-4UCfmg",
-        repo: 'https://github.com/Steven-McCombe/techtalk',
-        live: 'https://powerful-stream-84174.herokuapp.com/'
+        image: "https://unsplash.com/photos/tLZhFRLj6nY",
+        repo: 'https://github.com/miklos-petronia/Tech-Summit-Blog-Post.git',
+        live: 'https://tech-summit-blog.herokuapp.com/'
     },
     {
         id: 4,
-        name: 'World Cup Quiz',
-        description: 'Fun interactive quiz to test your knowledge on world cup history, see if you can make it to the top of the hiscores',
-        image: "https://source.unsplash.com/oW8ph9u07uo",
-        repo: 'https://github.com/Steven-McCombe/world-cup-quiz',
-        live: 'https://steven-mccombe.github.io/world-cup-quiz/'
+        name: 'Text-PWA-Editor',
+        description: 'a text editor that runs in the browser. The app will be a single-page application that meets the PWA criteria. It will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.',
+        image: "https://unsplash.com/photos/VW2oU66mwbc",
+        repo: 'https://github.com/miklos-petronia/Text-PWA-Editor.git',
+        live: 'https://text-pwa-editor007.herokuapp.com/'
     },
     {
         id: 5,
-        name: 'Weather Report',
-        description: 'Weather forecasting application that takes in a users search criteria for a particular city and returns the current/forecasted weather conditions. ',
-        image: "https://source.unsplash.com/SuJp8ZpkubI",
-        repo: 'https://github.com/Steven-McCombe/Weather-Report-App',
-        live: 'https://steven-mccombe.github.io/Weather-Report-App/'
+        name: 'Under-Note-Taker',
+        description: 'a Noter taker application app, used to write and save your notes. The application uses express.js back end and would save and take note data from a json file. ',
+        image: "https://unsplash.com/photos/RLw-UC03Gwc",
+        repo: 'https://github.com/miklos-petronia/under-note-taker.git',
+        live: 'https://under-note-taker1.herokuapp.com/notes'
     },
     {
         id: 6,
-        name: 'PWA Text Editor',
-        description: 'This is a browser-based text editor that functions as a single-page application and as a progressive web app (PWA).',
-        image: 'https://source.unsplash.com/5VM5SHrs_E8',
-        repo: 'https://github.com/Steven-McCombe/PWA_Text_Editor',
-        live: 'https://lit-coast-23795.herokuapp.com/'
+        name: 'Code-Quiz',
+        description: 'The user would click on the link to go through the code quiz and has 30 seconds to finish the quiz. The quiz has four technical questions, which can be answered in a multiple-choice form consisting of choices of A, B, C, or D.',
+        image: 'https://unsplash.com/photos/cbEvoHbJnIE',
+        repo: 'https://github.com/miklos-petronia/Code-Quiz.git',
+        live: 'https://miklos-petronia.github.io/Code-Quiz/'
     },
 ];
 
