@@ -38,3 +38,22 @@ function FormHandler() {
             setMessage(inputValue);
         }
     };
+
+    const handleFormSubmit = (e) => {
+        // Impede the default action of the model submit. In order to refresh the page
+        e.preventDefault();
+
+        // Check if the email is not accurate or if the userName is empty. If so we set an failure message to be illustrated on the page.
+        if (!validateEmail(email) || !userName) {
+            setErrorMessage('Email or username is invalid');
+            // Exit out of the code block if something goes bad in order for the user tocorrect it
+            return;
+            // Check to see if the password is not accurate. If so, we set an failllure feedback message regarding the password.
+        }
+        alert(`Thank you for your message, ${userName}. I will get back to you shortly`);
+
+        // If everything well, set a clear out the input information after a good registration.
+        setEmail('');
+        setUserName('');
+        setMessage('');
+    };
