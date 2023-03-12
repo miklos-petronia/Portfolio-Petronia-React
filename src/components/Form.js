@@ -12,3 +12,9 @@ function FormHandler() {
     const [userName, setUserName] = useState('');
     const [Message, setMessage] = useState('');
     const [errorMessage, setErrorMessage] = useState('');
+
+    const handleInputChange = (e) => {
+        // Obtaining the element and name of the information which caused the change
+        const { target } = e;
+        const inputType = target.name;
+        const inputValue = target.value;
