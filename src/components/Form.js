@@ -18,3 +18,23 @@ function FormHandler() {
         const { target } = e;
         const inputType = target.name;
         const inputValue = target.value;
+
+        // Based on the input information sort, set the state of either email, username, and message
+        if (inputType === 'email') {
+            setEmail(inputValue);
+            if (inputValue === '') {
+                setErrorMessage('Email is required');
+            } else {
+                setErrorMessage('');
+            }
+        } else if (inputType === 'userName') {
+            setUserName(inputValue);
+            if (inputValue === '') {
+                setErrorMessage('Name is required');
+            } else {
+                setErrorMessage('');
+            }
+        } else {
+            setMessage(inputValue);
+        }
+    };
