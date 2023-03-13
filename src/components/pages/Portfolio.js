@@ -21,7 +21,7 @@ const projects = [
     },
     {
         id: 3,
-        name: 'TechTalk',
+        name: 'Tech Summit Blog',
         description: 'TechTalk Blog! This is a place where tech enthusiasts can come together to share their ideas and knowledge.',
         image: "https://images.unsplash.com/photo-1563986768494-4dee2763ff3f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
         repo: 'https://github.com/miklos-petronia/Tech-Summit-Blog-Post.git',
