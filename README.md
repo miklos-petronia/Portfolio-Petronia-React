@@ -4,7 +4,6 @@
 * [Description](#Description)
 * [User Story](#User-Story)
 * [Acceptance Criteria](#Acceptance-Criteria)
-* [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
 * [Credits](#credits)
