@@ -30,7 +30,7 @@ const projects = [
     {
         id: 4,
         name: 'Text-PWA-Editor',
-        description: 'a text editor that runs in the browser. The app will be a single-page application that meets the PWA criteria. It will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.',
+        description: 'A text editor that runs in the browser. The app will be a single-page application that meets the PWA criteria. It will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.',
         image: "https://images.unsplash.com/photo-1490810194309-344b3661ba39?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1448&q=80",
         repo: 'https://github.com/miklos-petronia/Text-PWA-Editor.git',
         live: 'https://text-pwa-editor007.herokuapp.com/'
@@ -38,7 +38,7 @@ const projects = [
     {
         id: 5,
         name: 'Under-Note-Taker',
-        description: 'a Noter taker application app, used to write and save your notes. The application uses express.js back end and would save and take note data from a json file. ',
+        description: 'A Noter taker application app, used to write and save your notes. The application uses express.js back end and would save and take note data from a json file. ',
         image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80",
         repo: 'https://github.com/miklos-petronia/under-note-taker.git',
         live: 'https://under-note-taker1.herokuapp.com/notes'
