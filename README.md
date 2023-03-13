@@ -53,12 +53,20 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ## Usage
 Click on the url below: 
 ```
-`https://text-pwa-editor007.herokuapp.com/`
+`https://miklos-petronia.github.io/Portfolio-Petronia-React/`
 ```
 
 Application Screenshot:
 
-[<img src="./assets/images/Application_Screenshot.png">](https://text-pwa-editor007.herokuapp.com/)
+![image](https://user-images.githubusercontent.com/113649566/224654017-33a69c83-06dc-4e75-b492-ef5bd9c6e20b.png)
+
+
+![image](https://user-images.githubusercontent.com/113649566/224653872-9fcf7e04-1385-4e17-9a16-fca3a5201421.png)
+
+![image](https://user-images.githubusercontent.com/113649566/224654283-8bce4b6a-b6ec-4b13-b3d6-fc56a3baaa2a.png)
+
+![image](https://user-images.githubusercontent.com/113649566/224654404-83be2d82-0cca-4d65-92fa-5543f81905d8.png)
+
 
 ## License 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) 
