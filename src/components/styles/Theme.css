@@ -1,5 +1,5 @@
 .color-w {
-    color: white;
+    color: rgb(228, 240, 6);
 }
 
 .color-d {
@@ -7,16 +7,16 @@
 }
 
 .nav-link {
-    color: white;
+    color: rgb(255, 255, 255);
 
 }
 
 h1 {
-    color: White;
+    color: rgb(232, 220, 7);
 }
 
 h5 {
-    color: White;
+    color: rgb(255, 255, 255);
     margin: 5px;
     padding: 4px;
 }
@@ -38,7 +38,7 @@ h5 {
 
 .typer {
     padding: 0px;
-    background: linear-gradient(to right, hsl(0, 0%, 30%) 0, hsl(0, 0%, 100%) 10%, hsl(0, 0%, 30%) 20%);
+    background: linear-gradient(to right, hsl(55, 98%, 47%) 0, hsl(0, 0%, 100%) 10%, hsl(56, 95%, 44%) 20%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     animation: shine 10s infinite linear;

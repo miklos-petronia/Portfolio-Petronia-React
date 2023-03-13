@@ -87,7 +87,7 @@ function FormHandler() {
                         placeholder="Message"
                         rows="10"
                     />
-                    <Button type="button" className="bg-dark" onClick={handleFormSubmit}>Submit</Button>
+                    <Button type="button" className="bg-success" onClick={handleFormSubmit}>Submit</Button>
                 </div>
             </Form>
             {errorMessage && (

@@ -20,7 +20,7 @@ function NavTabs({ currentPage, handlePageChange }) {
 
 
     return (
-        <MDBNavbar expand='lg' dark bgColor='dark'>
+        <MDBNavbar expand='lg' dark bgColor='bg-primary'>
             <MDBContainer fluid>
                 <MDBNavbarBrand >Miklos Petronia</MDBNavbarBrand>
                 <MDBNavbarToggler
@@ -34,20 +34,20 @@ function NavTabs({ currentPage, handlePageChange }) {
                     <MDBIcon icon='bars' fas />
                 </MDBNavbarToggler>
                 <MDBCollapse show={showNavColorSecond} navbar id='navbarColor02'>
-                    <MDBNavbarNav className='me-auto mb-2 mb-lg-0'>
+                    <MDBNavbarNav className='me-auto mb-2 mb-lg-0 '>
                         <MDBNavbarItem className='active'>
-                            <MDBNavbarLink aria-current='page' href='#about' onClick={() => handlePageChange('About')} className={currentPage === 'About' ? 'nav-link active' : 'nav-link'}>
+                            <MDBNavbarLink aria-current='page' href='#about' onClick={() => handlePageChange('About')} className={currentPage === 'About' ? 'nav-link active' : 'nav-link text-warning'}>
                                 About
                             </MDBNavbarLink>
                         </MDBNavbarItem>
                         <MDBNavbarItem>
-                            <MDBNavbarLink href='#portfolio' onClick={() => handlePageChange('Portfolio')} className={currentPage === 'Portfolio' ? 'nav-link active' : 'nav-link'}>Portfolio</MDBNavbarLink  >
+                            <MDBNavbarLink href='#portfolio' onClick={() => handlePageChange('Portfolio')} className={currentPage === 'Portfolio' ? 'nav-link active' : 'nav-link text-warning'}>Portfolio</MDBNavbarLink  >
                         </MDBNavbarItem>
                         <MDBNavbarItem>
-                            <MDBNavbarLink href='#contact' onClick={() => handlePageChange('Contact')} className={currentPage === 'Contact' ? 'nav-link active' : 'nav-link'}>Contact</MDBNavbarLink>
+                            <MDBNavbarLink href='#contact' onClick={() => handlePageChange('Contact')} className={currentPage === 'Contact' ? 'nav-link active' : 'nav-link text-warning'}>Contact</MDBNavbarLink>
                         </MDBNavbarItem>
                         <MDBNavbarItem>
-                            <MDBNavbarLink href='#resume' onClick={() => handlePageChange('Resume')} className={currentPage === 'Resume' ? 'nav-link active' : 'nav-link'}>Resume</MDBNavbarLink>
+                            <MDBNavbarLink href='#resume' onClick={() => handlePageChange('Resume')} className={currentPage === 'Resume' ? 'nav-link active' : 'nav-link text-warning'}>Resume</MDBNavbarLink>
                         </MDBNavbarItem>
                     </MDBNavbarNav>
                 </MDBCollapse>
