@@ -52,7 +52,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Usage
 
-Navigate to` [Miklos Petronia Portfolio profile](https://miklos-petronia.github.io/Portfolio-Petronia-React/) `to view my web page.
+Navigate to [Miklos Petronia Portfolio profile](https://miklos-petronia.github.io/Portfolio-Petronia-React/) to view my web page.
 
 
 Application Screenshot:
