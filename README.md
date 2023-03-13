@@ -12,7 +12,7 @@
 * [Questions](#bugreport)
 
 # Description
-As a web developer, I understand the importance of being part of a community. I have developed a React portfolio that illustartes my skillsets and projects. You will be able to know who I am and the rpojects i have developed trought my bootcamp course. Please take a look on my bootcamp projects, contact me and see my resume.
+As a web developer, I understand the importance of being part of a web development community. I have developed a React portfolio that illustrates my skillsets and projects. You will be able to know who I am and the projects I have developed throughout my bootcamp course. Please take a look at my bootcamp projects, contact me, and see my resume.
 
 ## User Story
 AS AN employer looking for candidates with experience building single-page applications
