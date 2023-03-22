@@ -51,6 +51,30 @@ const projects = [
         repo: 'https://github.com/miklos-petronia/Code-Quiz.git',
         live: 'https://miklos-petronia.github.io/Code-Quiz/'
     },
+    {
+        id: 7,
+        name: 'Pearl Book Search Engine',
+        description: 'A book search engine application was developed where users can search and save their favorite books. Within this application, a starter code with a fully functioning Google Books API search engine built with a RESTful API and refactor to be a GraphQL API built with Apollo Server.  The app was built using the MERN stack with a React front end, MongoDB database, and Node.js/Express.js server and API. ',
+        image: 'https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80',
+        repo: 'https://github.com/miklos-petronia/Pearl-Books-Search-Engine',
+        live: 'https://pearl-book-search-engine.herokuapp.com/'
+    },
+    {
+        id: 9,
+        name: 'Tronia e-commrece',
+        description: 'Tronia-e-commerce is an e-commerce platform that uses Redux to manage the global state. Technologies used to develop this platform was apollo client, apollo server (express), express, graphQL, jsonwebtoken, jwt-decode, mongoDB, mongoose, react, react-redux, redux, redux toolkit and stripe.',
+        image: 'https://www.insightssuccess.in/wp-content/uploads/2020/12/785054-ecommerce-istock-020119.jpg',
+        repo: 'https://github.com/miklos-petronia/Tronia-e-commerce',
+        live: 'https://tronia-e-commerce007.herokuapp.com/'
+    },
+    {
+        id: 10,
+        name: 'Code Tracker',
+        description: 'The application produces a repository that allows developers to store code snippets and/or links to their preferred code using notes. Our belief is that developers will find this beneficial as it helps them maintain their past preferred code in an organized manner and enables them to retrieve it quickly for future projects.',
+        image: 'https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80',
+        repo: 'https://github.com/miklos-petronia/Project-3-Coding-Bootcamp.git',
+        live: 'https://rocky-lowlands-82126.herokuapp.com/'
+    },
 ];
 
 export default function Portfolio() {
