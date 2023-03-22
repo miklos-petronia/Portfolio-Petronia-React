@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio-Petronia-React/static/css/main.d603cbc3.css",
-    "main.js": "/Portfolio-Petronia-React/static/js/main.b60e8b3d.js",
+    "main.js": "/Portfolio-Petronia-React/static/js/main.31383b4b.js",
     "static/media/Miklos_Petronia_VisualCV__2023_Resume.pdf": "/Portfolio-Petronia-React/static/media/Miklos_Petronia_VisualCV__2023_Resume.292bfc05d8733ff63e71.pdf",
     "static/media/fa-solid-900.ttf": "/Portfolio-Petronia-React/static/media/fa-solid-900.2877d54f94f30c5d563c.ttf",
     "static/media/profilepicture.png": "/Portfolio-Petronia-React/static/media/profilepicture.732acd9658946b0ba26b.png",
@@ -14,10 +14,10 @@
     "static/media/fa-v4compatibility.woff2": "/Portfolio-Petronia-React/static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
     "index.html": "/Portfolio-Petronia-React/index.html",
     "main.d603cbc3.css.map": "/Portfolio-Petronia-React/static/css/main.d603cbc3.css.map",
-    "main.b60e8b3d.js.map": "/Portfolio-Petronia-React/static/js/main.b60e8b3d.js.map"
+    "main.31383b4b.js.map": "/Portfolio-Petronia-React/static/js/main.31383b4b.js.map"
   },
   "entrypoints": [
     "static/css/main.d603cbc3.css",
-    "static/js/main.b60e8b3d.js"
+    "static/js/main.31383b4b.js"
   ]
 }

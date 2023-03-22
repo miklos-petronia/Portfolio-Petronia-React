@@ -61,7 +61,7 @@ const projects = [
     },
     {
         id: 9,
-        name: 'Tronia e-commrece',
+        name: 'Tronia e-commerce',
         description: 'Tronia-e-commerce is an e-commerce platform that uses Redux to manage the global state. Technologies used to develop this platform was apollo client, apollo server (express), express, graphQL, jsonwebtoken, jwt-decode, mongoDB, mongoose, react, react-redux, redux, redux toolkit and stripe.',
         image: 'https://www.insightssuccess.in/wp-content/uploads/2020/12/785054-ecommerce-istock-020119.jpg',
         repo: 'https://github.com/miklos-petronia/Tronia-e-commerce',
