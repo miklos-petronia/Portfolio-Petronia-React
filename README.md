@@ -4,7 +4,6 @@
 * [Description](#Description)
 * [User Story](#User-Story)
 * [Acceptance Criteria](#Acceptance-Criteria)
-* [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
 * [Credits](#credits)
@@ -12,7 +11,7 @@
 * [Questions](#bugreport)
 
 # Description
-As a web developer, I understand the importance of being part of a community. I have developed a React portfolio that illustartes my skillsets and projects. You will be able to know who I am and the rpojects i have developed trought my bootcamp course. Please take a look on my bootcamp projects, contact me and see my resume.
+As a web developer, I understand the importance of being part of a web development community. I have developed a React portfolio that illustrates my skillsets and projects. You will be able to know who I am and the projects I have developed throughout my bootcamp course. Please take a look at my bootcamp projects, contact me, and see my resume.
 
 ## User Story
 AS AN employer looking for candidates with experience building single-page applications
@@ -51,14 +50,21 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 
 ## Usage
-Click on the url below: 
-```
-`https://text-pwa-editor007.herokuapp.com/`
-```
+
+Navigate to [Miklos Petronia Portfolio profile](https://miklos-petronia.github.io/Portfolio-Petronia-React/) to view my web page.
+
 
 Application Screenshot:
 
-[<img src="./assets/images/Application_Screenshot.png">](https://text-pwa-editor007.herokuapp.com/)
+![image](https://user-images.githubusercontent.com/113649566/224654017-33a69c83-06dc-4e75-b492-ef5bd9c6e20b.png)
+
+
+![image](https://user-images.githubusercontent.com/113649566/224653872-9fcf7e04-1385-4e17-9a16-fca3a5201421.png)
+
+![image](https://user-images.githubusercontent.com/113649566/224654283-8bce4b6a-b6ec-4b13-b3d6-fc56a3baaa2a.png)
+
+![image](https://user-images.githubusercontent.com/113649566/224654404-83be2d82-0cca-4d65-92fa-5543f81905d8.png)
+
 
 ## License 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) 
